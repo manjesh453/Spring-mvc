@@ -20,4 +20,15 @@
     <servlet-name>spring</servlet-name>
     <url-pattern>/</url-pattern>
   </servlet-mapping>
+
+  <jsp-config>
+    <taglib>
+      <taglib-uri>http://java.sun.com/jsp/jstl/core</taglib-uri>
+      <taglib-location>/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar</taglib-location>
+    </taglib>
+  </jsp-config>
+
+
+
+
 </web-app>
