@@ -1,0 +1,17 @@
+
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÎÑƒ¥ÿÿÿÿÿ
+^
+java:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ñ„Éÿ
+V
+java:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(£¬ì
+`
+java:S4488*"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ãâº¡
+^
+java:S44885"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ÿì½Ï
+^
+java:S4488<"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"( ˜Ó 
+@
+java:S1068"*Remove this unused "logger" private field.(§£ˆã
